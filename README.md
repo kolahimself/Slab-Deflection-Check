@@ -10,7 +10,7 @@ This is a simple and user-friendly Jupyter notebook that allows you to perform d
 
 ## Requirements
 
-To use DeflectEC2, you need the following requirements installed:
+To use this tool, you need the following requirements installed:
 
 - Python 3.x
 - Jupyter Notebook
@@ -21,6 +21,6 @@ Please ensure you have the required software and packages installed before runni
 
 ## Disclaimer
 
-DeflectEC2 is provided for educational and reference purposes only. Always validate the results obtained using other engineering methods or consult a professional structural engineer for critical projects.
+This tool is provided for educational and reference purposes only. Always validate the results obtained using other engineering methods or consult a professional structural engineer for critical projects.
 
 Feel free to reach out for any feedback or issues you encounter while using the tool. Happy engineering!
