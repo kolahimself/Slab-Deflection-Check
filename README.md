@@ -3,7 +3,7 @@ This is a simple and user-friendly Jupyter notebook that allows you to perform d
 
 ## How to Use
 
-1. Open the Jupyter notebook file, "DeflectEC2.ipynb."
+1. Open the Jupyter notebook file, "SlabDeflCheck.ipynb"
 2. Input your desired values using the intuitive text widgets provided.
 3. Run the notebook to generate the design check results.
 4. Inspect the results to ensure the deflection meets EC2 standards.
