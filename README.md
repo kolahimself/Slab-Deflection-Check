@@ -1,4 +1,4 @@
-# SLab Deflection Checks to EC2
+# Slab Deflection Checks to EC2🏗
 This is a simple and user-friendly Jupyter notebook that allows you to perform deflection checks for reinforced concrete slabs according to EC2 standards. It was developed to fill the gap left by CSC Orion's lack of deflection check functionality.
 
 ## How to Use
